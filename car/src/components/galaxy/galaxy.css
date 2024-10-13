@@ -1,0 +1,34 @@
+
+.ouyfits {
+    font-family: Noto Sans;
+font-size: 46px;
+font-weight: 600;
+line-height: 62.65px;
+text-align: left;
+color: #000;
+padding-bottom: 50px;
+}
+.galaxy-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+        padding-bottom: 30px;
+}
+
+.regret {
+    font-family: Noto Sans;
+font-size: 24px;
+font-weight: 500;
+line-height: 32px;
+text-align: center;
+color: #000;
+}
+
+.glube {
+    font-family: Noto Sans;
+font-size: 14px;
+font-weight: 500;
+line-height: 32px;
+text-align: center;
+color: #000;
+}

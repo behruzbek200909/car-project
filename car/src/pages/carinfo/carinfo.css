@@ -1,0 +1,97 @@
+.section-new {
+    display: flex;
+    justify-content: space-between;
+}
+
+.section-new-language {
+    width: 396px;
+height: 660px;
+border-radius: 8px;
+background: #F6F6F6;
+padding-left: 24px;
+padding-right: 24px;
+}
+
+
+
+.titans {
+    font-family: Noto Sans;
+font-size: 24px;
+font-weight: 500;
+line-height: 32px;
+text-align: left;
+color: #000;
+padding-top: 16px;
+}
+
+.best {
+font-family: Noto Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 32px;
+text-align: left;
+color: #000;
+}
+
+.music {
+    font-family: Noto Sans;
+font-size: 16px;
+font-weight: 600;
+line-height: 32px;
+text-align: left;
+color: #000;
+    padding-bottom: 10px;
+}
+.music-paganini {
+    font-family: Noto Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 32px;
+text-align: left;
+color: #00000099;
+}
+
+.arsenal {
+    width: 348px;
+height: 0px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid #00000033
+}
+
+.music-paganin{
+    font-family: Noto Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+
+}
+.clash {
+
+}
+.of {
+    font-family: Noto Sans;
+font-size: 24px;
+font-weight: 500;
+line-height: 32px;
+text-align: left;
+color: #000;
+}
+.date {
+    font-family: Noto Sans;
+font-size: 12px;
+font-weight: 400;
+line-height: 16px;
+text-align: left;
+
+}
+.noise {
+    font-family: Noto Sans;
+font-size: 12px;
+font-weight: 400;
+line-height: 16px;
+text-align: left;
+color: #000;
+}
