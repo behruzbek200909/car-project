@@ -13,7 +13,7 @@ export const Header = () => {
             </div>
             <button className="header-botton">
               <FaUserAstronaut />
-              Admin o‘tish
+              Login
             </button>
           </div>
         </div>
