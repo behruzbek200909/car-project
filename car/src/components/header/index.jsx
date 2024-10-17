@@ -1,6 +1,7 @@
-import React from 'react'
-import { FaUserAstronaut } from "react-icons/fa"
-import "./header.css"
+import React from "react";
+import { FaUserAstronaut } from "react-icons/fa";
+import "./header.css";
+import { NavLink } from "react-router-dom";
 
 export const Header = () => {
   return (
@@ -10,14 +11,15 @@ export const Header = () => {
           <div className="header-inner-blood">
             <p className="chine">Bosh sahifa </p>
             <p className="made">modellari</p>
-            </div>
+          </div>
+          <NavLink to={"/login"}>
             <button className="header-botton">
               <FaUserAstronaut />
               Login
             </button>
-          </div>
+          </NavLink>
         </div>
+      </div>
     </header>
   );
-}
-
+};
